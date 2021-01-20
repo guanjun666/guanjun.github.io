@@ -1,1 +1,1 @@
-IDEA中测试GitHub，哈哈
+IDEA中测试GitHub
